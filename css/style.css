@@ -223,20 +223,13 @@ nav {
   background: rgba(0, 218, 244, 0.9) !important;
 }
 #intro .intro-content .intro-img {
-  width: 60%;
-  height: 80%;
-  margin-top: 15%;
-  margin-left: 5%;
+  width: 80%;
+  height: 100%;
 }
 #intro .intro-content .intro-img img {
   width: 100%;
   pointer-events: none;
   z-index: -1;
-  border: 2px solid rgba(0, 218, 244, 0.9); ;
-  border-radius: 50%;
-  background: #444;
-  background-color: rgba(0, 218, 244, 0.2);
-
 }
 #about {
   position: relative;
@@ -341,9 +334,10 @@ nav {
 #projects .projects-body .ptype-2 {
   background: url(../media/MaxFashion.png) no-repeat center center/cover;
 }
-/* #projects .projects-body .ptype-3 {
-  background: url(../media/whatppautomation.png) no-repeat center center/cover;
+ #projects .projects-body .ptype-3 {
+  background: url(../media/shopperStop.png) no-repeat center center/cover;
 }
+/*
 #projects .projects-body .ptype-4 {
   background: url(../media/advancedSuduko.png) no-repeat center center/cover;
 } */
