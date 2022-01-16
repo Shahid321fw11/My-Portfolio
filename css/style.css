@@ -207,12 +207,13 @@ nav {
 }
 #intro .intro-content .intro-text h2 {
   color: #c1c2df;
-  font-size: 60px;
+  font-size: 40px;
   opacity: 0.5;
 }
 #intro .intro-content .intro-text p {
   width: 60%;
 }
+
 #intro .intro-content a {
   margin-top: 2rem;
   padding: 1rem 2rem;
@@ -237,6 +238,7 @@ nav {
   background: #444;
   background-color: rgba(0, 218, 244, 0.2);
 }
+
 #about {
   position: relative;
   width: 60%;
