@@ -74,6 +74,14 @@ ul {
   font-weight: 100;
   font-size: 16px;
   line-height: 25px;
+  width: 75%;
+  display:flex;
+  float:right
+
+}
+#ri{
+  /* display:flex;
+  float:right */
 }
 .section-sub-header {
   flex: 1;
@@ -727,6 +735,7 @@ nav {
     padding: 0rem;
     width: 120%;
   }
+
   #projects .first-project .projects-body-info .projects-code-language {
     justify-content: flex-start;
   }
