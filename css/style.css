@@ -95,11 +95,6 @@ ul {
   float: right
 }
 
-#ri {
-  /* display:flex;
-  float:right */
-}
-
 .section-sub-header {
   flex: 1;
   text-align: right;
