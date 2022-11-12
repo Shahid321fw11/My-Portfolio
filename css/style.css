@@ -91,8 +91,8 @@ ul {
   font-size: 16px;
   line-height: 25px;
   width: 75%;
-  display: flex;
-  float: right
+  /* display: flex; */
+  /* float: right */
 }
 
 .section-sub-header {
@@ -648,7 +648,7 @@ nav {
 #footer .footer-text {
   text-align: center;
   margin: auto;
-  width: 80%;
+  /* width: 80%; */
   font-size: 12px;
   font-family: "Space Mono";
 }
